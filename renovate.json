@@ -1,7 +1,7 @@
 {
   "logLevelRemap": [
     {
-      "matchMessage": "cache",
+      "matchMessage": "*cache*",
       "newLogLevel": "info"
     }
   ]
